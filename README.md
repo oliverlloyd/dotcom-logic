@@ -19,15 +19,16 @@ The team working on DCR are mainly javascript engineers. There is limited knowle
 ## What does DCL do?
 
 This table gives the current level of coverage vs. DCR. If an item is shown as supported by DCR that means the page makes a call to `frontend` directly. If '-' is shown it is proposed to add this service to DCL.
-| | DCL? | DCR? |
-|--------------:|:----:|:----:|
-| Comment count | - | N |
-| Most read | N | Y |
-| Most popular | N | Y |
-| Onwards | Y | N |
-| Share count | N | Y |
-| Rich links | N | Y |
-| Contributions | - | N |
+
+|               | DCL? | DCR? |
+| ------------: | :--: | :--: |
+| Comment count |  -   |  N   |
+|     Most read |  N   |  Y   |
+|  Most popular |  N   |  Y   |
+|       Onwards |  Y   |  N   |
+|   Share count |  N   |  Y   |
+|    Rich links |  N   |  Y   |
+| Contributions |  -   |  N   |
 
 ## Where does DCL fit in?
 
