@@ -14,11 +14,11 @@ Another benefit to building a service oriented api is that is can be reused by o
 
 ### Speed
 
-The team working on DCR are mainly javascript engineers. There is limited knowledge of Scala so those people who do know Scala become bottlenecks when api changes are required. By building out DCL in typecript changes can be made by the whole team, speeding up delivery.
+The team working on DCR are mainly javascript engineers. There is limited knowledge of Scala so those people who do know Scala become bottlenecks when api changes are required. By building out DCL in TypeScript changes can be made by the whole team, speeding up delivery.
 
 ## What does DCL do?
 
-This table gives the current level of coverage vs. DCR. If an item is shown as supported by DCR that means the page makes a call to `frontend` directly. If '-' is shown it is proposed to add this service to DCL.
+This table gives the current level of coverage vs. DCR. If an item is shown as supported by DCR that means the page makes a call to `frontend` directly. If `-` is shown it is proposed to add this service to DCL.
 
 |               | DCL? | DCR? |
 | ------------: | :--: | :--: |
