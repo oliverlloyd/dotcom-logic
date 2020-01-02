@@ -19,7 +19,6 @@
     "babel-jest": "^24.9.0",
     "eslint": "^6.8.0",
     "jest": "^24.9.0",
-    "nodemon": "^2.0.2",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.4"
   },
@@ -32,6 +31,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2",
     "url-join": "^4.0.1"
   }
 }
